@@ -1,6 +1,0 @@
----
-- hosts: grafana
-  become: true
-  become_method: sudo
-  roles:
-     - ansible-grafana     
